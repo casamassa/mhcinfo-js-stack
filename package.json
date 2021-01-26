@@ -1,0 +1,18 @@
+{
+  "name": "mhcinfo-js-stack",
+  "version": "1.0.0",
+  "description": "MHC Info JS Stack",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
